@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CountryJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|d:\\projects\\countryjson\\countryjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|solutionrelative:countryjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|d:\\projects\\countryjson\\countryjson\\dataseed\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|solutionrelative:countryjson\\dataseed\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|d:\\projects\\countryjson\\countryjson\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|solutionrelative:countryjson\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|d:\\projects\\countryjson\\countryjson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|solutionrelative:countryjson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|d:\\projects\\countryjson\\countryjson\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|solutionrelative:countryjson\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|d:\\projects\\countryjson\\countryjson\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|solutionrelative:countryjson\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|d:\\projects\\countryjson\\countryjson\\json\\list.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A46C2994-9606-45C5-8D32-E655F912C7AA}|CountryJson\\CountryJson.csproj|solutionrelative:countryjson\\json\\list.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CountryJson\\CountryJson\\Program.cs",
+              "RelativeDocumentMoniker": "CountryJson\\Program.cs",
+              "ToolTip": "D:\\Projects\\CountryJson\\CountryJson\\Program.cs",
+              "RelativeToolTip": "CountryJson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:30:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\Projects\\CountryJson\\CountryJson\\DataSeed\\Seed.cs",
+              "RelativeDocumentMoniker": "CountryJson\\DataSeed\\Seed.cs",
+              "ToolTip": "D:\\Projects\\CountryJson\\CountryJson\\DataSeed\\Seed.cs",
+              "RelativeToolTip": "CountryJson\\DataSeed\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:18:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\CountryJson\\CountryJson\\appsettings.json",
+              "RelativeDocumentMoniker": "CountryJson\\appsettings.json",
+              "ToolTip": "D:\\Projects\\CountryJson\\CountryJson\\appsettings.json",
+              "RelativeToolTip": "CountryJson\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T11:13:50.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\CountryJson\\CountryJson\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CountryJson\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\CountryJson\\CountryJson\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CountryJson\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:10:21.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "District.cs",
+              "DocumentMoniker": "D:\\Projects\\CountryJson\\CountryJson\\Models\\District.cs",
+              "RelativeDocumentMoniker": "CountryJson\\Models\\District.cs",
+              "ToolTip": "D:\\Projects\\CountryJson\\CountryJson\\Models\\District.cs",
+              "RelativeToolTip": "CountryJson\\Models\\District.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:03:13.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\Projects\\CountryJson\\CountryJson\\Models\\State.cs",
+              "RelativeDocumentMoniker": "CountryJson\\Models\\State.cs",
+              "ToolTip": "D:\\Projects\\CountryJson\\CountryJson\\Models\\State.cs",
+              "RelativeToolTip": "CountryJson\\Models\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:03:01.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "list.json",
+              "DocumentMoniker": "D:\\Projects\\CountryJson\\CountryJson\\JSON\\list.json",
+              "RelativeDocumentMoniker": "CountryJson\\JSON\\list.json",
+              "ToolTip": "D:\\Projects\\CountryJson\\CountryJson\\JSON\\list.json",
+              "RelativeToolTip": "CountryJson\\JSON\\list.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T10:50:40.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
